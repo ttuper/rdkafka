@@ -1,0 +1,17 @@
+{
+    "name": "hhz/rdkafka",
+    "description": "rdkafka",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hhz\\Rdkafka\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhangtiantian",
+            "email": "zhangtiantian@haohaozhu.com"
+        }
+    ],
+    "require": {}
+}
