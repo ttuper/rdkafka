@@ -2,7 +2,7 @@
 /**
  * Class Consumer
  */
-namespace Hhz\Rdkafka;
+namespace Hhzztt\Rdkafka;
 
 use RdKafka\Conf as RdKafkaConf;
 use RdKafka\Consumer as RdKafkaConsumer;

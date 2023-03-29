@@ -1,6 +1,6 @@
 <?php
 
-namespace Hhz\Rdkafka;
+namespace Hhzztt\Rdkafka;
 
 use ConfigServices\ConfigServices;
 use Exception;

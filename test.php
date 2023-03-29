@@ -19,7 +19,7 @@ use Doraemon\service\Designer\DesignerDingTalkAlert;
 class Test {
 
     const PUSH_MESSAGE_PICKUP =  [
-        'config_file' => 'kafka',
+        'config_file' => 'kafka.ini',
         'config_select' => 'push_message_pickup',
         'topic_name' => 'test',
         'group_id' => 'push_message_pickup_test'

@@ -2,7 +2,7 @@
 /**
  * Class Producer
  */
-namespace Hhz\Rdkafka;
+namespace Hhzztt\Rdkafka;
 
 use RdKafka\Conf as RdKafkaConf;
 use RdKafka\Producer as RdKafkaProducer;
